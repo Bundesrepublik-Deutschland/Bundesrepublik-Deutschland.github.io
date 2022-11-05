@@ -34,3 +34,10 @@ Ich tätigte meine EINE Unterschrift und verlies wütend meine eigenen vier Wän
 Etwa 2 Minuten später verlies dann auch Herr Fräulin die Räumlichkeiten und übergab mir im Gehen den Durchschlag.
 
 Wie man auf folgendem Foto sehen kann, enthält der Durchschlag zwei Unterschriften die beide von mir stammen sollen. Da ich nur einmal unterschrieben habe und die zweite Unterschrift nicht einmal meiner Handschrift entspricht, lässt dies nur einen einzigen Schluss zu: **Herr Fräulin hat grob und schmutzig meine Unterschrift gefälscht!**
+
+:::danger Beschuldige die andere Seite dessen, was du dir selbst zu Schulden kommen lassen hast.
+Dieses Goebbelsche Kredo scheint Herr Fräulin voll und ganz verinnerlicht zu haben,
+als er mir unterstellte, ein Mitglied bei den Reichsbürgern zu sein.
+Nach derzeitigen Anzeichen scheint es eher so, dass Herr Thorsten Fräulin derjenige ist, welcher
+im rechtsreaktionären Milieu verkehrt. Und zwar in Kreisen die dem Nationalsozialismus deutlich näher stehen als es der AfD unterstellt wird, und die deutlich radikaler sind als es der Linken unterstellt wird.
+:::
