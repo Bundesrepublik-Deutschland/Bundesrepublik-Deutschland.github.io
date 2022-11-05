@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbundesrepublik_deutschland_github_io=self.webpackChunkbundesrepublik_deutschland_github_io||[]).push([[511],{5154:e=>{e.exports=JSON.parse('{"label":"Bundesregierung","permalink":"/blog/tags/bundesregierung","allTagsPath":"/blog/tags","count":1}')}}]);

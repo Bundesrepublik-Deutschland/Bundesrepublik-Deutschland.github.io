@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Deutscher Verfassungszirkus Blog</title>
+        <link>https://bundesrepublik-deutschland.github.io/blog</link>
+        <description>Deutscher Verfassungszirkus Blog</description>
+        <lastBuildDate>Sat, 05 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>de</language>
+        <item>
+            <title><![CDATA[Hallo Welt]]></title>
+            <link>https://bundesrepublik-deutschland.github.io/blog/mdx-blog-post</link>
+            <guid>mdx-blog-post</guid>
+            <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[An dieser Stelle werde ich zukünftig über weitere Entwicklungen]]></description>
+            <content:encoded><![CDATA[<p>An dieser Stelle werde ich zukünftig über weitere Entwicklungen
+in den Bereichen Politik und Polizeigewalt berichten.</p>]]></content:encoded>
+            <category>Staatsschutz</category>
+            <category>Verfassungsschutz</category>
+            <category>Bundesregierung</category>
+        </item>
+    </channel>
+</rss>

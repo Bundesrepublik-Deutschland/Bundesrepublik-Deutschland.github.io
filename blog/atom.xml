@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bundesrepublik-deutschland.github.io/blog</id>
+    <title>Deutscher Verfassungszirkus Blog</title>
+    <updated>2022-11-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bundesrepublik-deutschland.github.io/blog"/>
+    <subtitle>Deutscher Verfassungszirkus Blog</subtitle>
+    <icon>https://bundesrepublik-deutschland.github.io/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hallo Welt]]></title>
+        <id>mdx-blog-post</id>
+        <link href="https://bundesrepublik-deutschland.github.io/blog/mdx-blog-post"/>
+        <updated>2022-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An dieser Stelle werde ich zukünftig über weitere Entwicklungen]]></summary>
+        <content type="html"><![CDATA[<p>An dieser Stelle werde ich zukünftig über weitere Entwicklungen
+in den Bereichen Politik und Polizeigewalt berichten.</p>]]></content>
+        <author>
+            <name>Mark Bauermeister</name>
+            <uri>https://www.youtube.com/channel/UC3YqiITP_XY04HfAmqVCO7w/featured</uri>
+        </author>
+        <category label="Staatsschutz" term="Staatsschutz"/>
+        <category label="Verfassungsschutz" term="Verfassungsschutz"/>
+        <category label="Bundesregierung" term="Bundesregierung"/>
+    </entry>
+</feed>
