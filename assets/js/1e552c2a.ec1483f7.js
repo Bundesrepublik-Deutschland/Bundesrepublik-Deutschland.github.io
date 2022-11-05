@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbundesrepublik_deutschland_github_io=self.webpackChunkbundesrepublik_deutschland_github_io||[]).push([[718],{9577:s=>{s.exports=JSON.parse('{"label":"Staatsschutz","permalink":"/blog/tags/staatsschutz","allTagsPath":"/blog/tags","count":2}')}}]);

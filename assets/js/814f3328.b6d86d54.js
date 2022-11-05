@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbundesrepublik_deutschland_github_io=self.webpackChunkbundesrepublik_deutschland_github_io||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Live","permalink":"/blog/go-live"},{"title":"Hallo Welt","permalink":"/blog/mdx-blog-post"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbundesrepublik_deutschland_github_io=self.webpackChunkbundesrepublik_deutschland_github_io||[]).push([[374],{2:s=>{s.exports=JSON.parse('{"label":"Verfassungsschutz","permalink":"/blog/tags/verfassungsschutz","allTagsPath":"/blog/tags","count":1}')}}]);

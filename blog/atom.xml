@@ -8,10 +8,27 @@
     <subtitle>Deutscher Verfassungszirkus Blog</subtitle>
     <icon>https://bundesrepublik-deutschland.github.io/img/logo.png</icon>
     <entry>
+        <title type="html"><![CDATA[Live]]></title>
+        <id>go-live</id>
+        <link href="https://bundesrepublik-deutschland.github.io/blog/go-live"/>
+        <updated>2022-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Website ist nun, mit leichter Verspätung, live geschaltet.]]></summary>
+        <content type="html"><![CDATA[<p>Die Website ist nun, mit leichter Verspätung, live geschaltet.
+Nächste Woche werde ich noch, für diejenigen die nicht gerne lesen oder unter Einschränkungen leiden,
+eine Audio Komponente integrieren.</p><p>Auf bald und immer daran denken: Wir sind das Volk! Wir sind ein Volk!</p>]]></content>
+        <author>
+            <name>Mark Bauermeister</name>
+            <uri>https://www.youtube.com/channel/UC3YqiITP_XY04HfAmqVCO7w/featured</uri>
+        </author>
+        <category label="Staatsschutz" term="Staatsschutz"/>
+        <category label="Verfassungsschutz" term="Verfassungsschutz"/>
+        <category label="Bundesregierung" term="Bundesregierung"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hallo Welt]]></title>
         <id>mdx-blog-post</id>
         <link href="https://bundesrepublik-deutschland.github.io/blog/mdx-blog-post"/>
-        <updated>2022-11-05T00:00:00.000Z</updated>
+        <updated>2022-11-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[An dieser Stelle werde ich zukünftig über weitere Entwicklungen]]></summary>
         <content type="html"><![CDATA[<p>An dieser Stelle werde ich zukünftig über weitere Entwicklungen
 in den Bereichen Politik und Polizeigewalt berichten.</p>]]></content>

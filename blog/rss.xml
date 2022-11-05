@@ -9,10 +9,23 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
         <item>
+            <title><![CDATA[Live]]></title>
+            <link>https://bundesrepublik-deutschland.github.io/blog/go-live</link>
+            <guid>go-live</guid>
+            <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Die Website ist nun, mit leichter Verspätung, live geschaltet.]]></description>
+            <content:encoded><![CDATA[<p>Die Website ist nun, mit leichter Verspätung, live geschaltet.
+Nächste Woche werde ich noch, für diejenigen die nicht gerne lesen oder unter Einschränkungen leiden,
+eine Audio Komponente integrieren.</p><p>Auf bald und immer daran denken: Wir sind das Volk! Wir sind ein Volk!</p>]]></content:encoded>
+            <category>Staatsschutz</category>
+            <category>Verfassungsschutz</category>
+            <category>Bundesregierung</category>
+        </item>
+        <item>
             <title><![CDATA[Hallo Welt]]></title>
             <link>https://bundesrepublik-deutschland.github.io/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
-            <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[An dieser Stelle werde ich zukünftig über weitere Entwicklungen]]></description>
             <content:encoded><![CDATA[<p>An dieser Stelle werde ich zukünftig über weitere Entwicklungen
 in den Bereichen Politik und Polizeigewalt berichten.</p>]]></content:encoded>
