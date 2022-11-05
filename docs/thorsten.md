@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Unser lieber Kommissar Fräulin (hier lieb lächelnd bei einem Gruppenfoto der örtlichen Kolpingsfamilie zu sehen. Leider durfte ich ihn selbst nur als abgehobenen Narzissten wahrnehmen. Freundlichkeit oder ein Lächeln scheint ihnen während seiner polizeilichen Ausübung deutlich fremd) hat seine Hobbies zum Beruf gemacht.
 
-`![]()`
+![KHK Fräulin](https://drive.google.com/uc?id=1Yh75a8cBFr1q8ICEll8T6zn2jw2qT-9T)
 
 Beim Polizeipräsidium Freiburg kann er, nach Lust und Laune, der Unterschriftenfälschung fröhnen, mit seinen Verfassungsfeindlichen Freunden chatten, sie vor möglichen Übergriffen warnen und ihnen bei der "Ausmerzung" der Opposition und von unliebsamen Minderheiten mit fachlicher Tatkraft und Autorität zur Seite stehen.
 
@@ -34,6 +34,12 @@ Ich tätigte meine EINE Unterschrift und verlies wütend meine eigenen vier Wän
 Etwa 2 Minuten später verlies dann auch Herr Fräulin die Räumlichkeiten und übergab mir im Gehen den Durchschlag.
 
 Wie man auf folgendem Foto sehen kann, enthält der Durchschlag zwei Unterschriften die beide von mir stammen sollen. Da ich nur einmal unterschrieben habe und die zweite Unterschrift nicht einmal meiner Handschrift entspricht, lässt dies nur einen einzigen Schluss zu: **Herr Fräulin hat grob und schmutzig meine Unterschrift gefälscht!**
+
+<details>
+    <summary>Originalunterschrift (mit mechanischem M) VS klare Fälschung darunter</summary>
+
+![Forgery](https://drive.google.com/uc?id=1ye6b6kUVfJ55_MSoc1Hlr0q_VG7piSPB)
+</details>
 
 :::danger Beschuldige die andere Seite dessen, was du dir selbst zu Schulden kommen lassen hast.
 Dieses Goebbelsche Kredo scheint Herr Fräulin voll und ganz verinnerlicht zu haben,
